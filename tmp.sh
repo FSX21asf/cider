@@ -1,0 +1,13 @@
+cd tkexp
+python3 fig_09.py 
+python3 fig_10.py 
+python3 fig_28.py 
+python3 fig_31.py 
+python3 fig_32.py 
+python3 fig_33.py 
+python3 fig_34.py 
+python3 fig_35.py 
+python3 fig_36.py 
+python3 fig_37.py 
+python3 fig_38.py 
+python3 fig_39.py 
