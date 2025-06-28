@@ -1,10 +1,10 @@
-# CIDER: Boosting Memory-Disaggregated Storage Systems with Pessimistic Synchronizationy
+# CIDER: Boosting Storage Systems on Disaggregated Memory with Pessimistic Synchronization
 
 
-This is the implementation repository of our paper: **CIDER: Boosting Memory-Disaggregated Storage Systems with Pessimistic Synchronizationy**.
+This is the implementation repository of our paper: **CIDER: Boosting Storage Systems on Disaggregated Memory with Pessimistic Synchronization**.
 
 
-- [CIDER: Boosting Memory-Disaggregated Storage Systems with Pessimistic Synchronizationy](#cider-boosting-memory-disaggregated-storage-systems-with-pessimistic-synchronizationy)
+- [CIDER: Boosting Storage Systems on Disaggregated Memory with Pessimistic Synchronization](#cider-boosting-storage-systems-on-disaggregated-memory-with-pessimistic-synchronization)
   - [Supported Platform](#supported-platform)
   - [Create Cluster](#create-cluster)
   - [Source Code](#source-code)
